@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+type: dataset
 authors:
 - family-names: "Javaria"
   given-names: "Farooq"
@@ -32,11 +33,11 @@ preferred-citation:
   - family-names: "M Ibraheem"
     given-names: "Siddiqui"  
   doi: "arXiv:2309.13264"
-  journal: "JarXiv preprint arXiv:2309.13264"
+  journal: "arXiv preprint"
   month: 9
   start: 1 # First page number
   end: 20 # Last page number
-  title: "Randomize to Generalize: Domain Randomization for Runway FOD Detection "
+  title: Randomize to Generalize: Domain Randomization for Runway FOD Detection 
   issue: 1
   volume: 1
   year: 2023
