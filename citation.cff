@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Javaria"
+  given-names: "farooq"
+  orcid: "https://orcid.org/0000-0001-8763-3334"
+- family-names: "Nayyer "
+  given-names: "Aafaq"
+   family-names: "M Khizer Ali "
+  given-names: " Khan"
+   family-names: "Ammar "
+  given-names: "Saleem"
+   family-names: "M Ibraheem "
+  given-names: "Siddiqui"
+title: "Out of Distribution FOD test set"
+version: 2.0.4
+date-released: 2023/10/7
+url: "https://github.com/Javaria-Farooq/Out-Of-Distribution-OOD-Images-test-set"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Javaria"
+  given-names: "farooq"
+  orcid: "https://orcid.org/0000-0001-8763-3334"
+- family-names: "Nayyer "
+  given-names: "Aafaq"
+   family-names: "M Khizer Ali"
+  given-names: "Khan"
+   family-names: "Ammar "
+  given-names: "Saleem"
+   family-names: "M Ibraheem "
+  given-names: "Siddiqui"
+  journal: "arvix preprint"
+  month: 9
+  start: 1 # First page number
+  end: 20 # Last page number
+  title: "Randomize to Generalize: Domain Randomization for Runway FOD Detection "
+  year: 2023
