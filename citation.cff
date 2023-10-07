@@ -14,6 +14,7 @@ authors:
   given-names: "Siddiqui"
 title: "Out of Distribution FOD test set"
 version: 2.0.4
+doi: 10.5281/zenodo.1234
 date-released: 2023/10/7
 url: "https://github.com/Javaria-Farooq/Out-Of-Distribution-OOD-Images-test-set"
 preferred-citation:
@@ -30,7 +31,8 @@ preferred-citation:
   given-names: "Saleem"
    family-names: "M Ibraheem "
   given-names: "Siddiqui"
-  journal: "arvix preprint"
+  journal: "arXiv preprint arXiv:2309.13264"
+  doi:arXiv:2309.13264
   month: 9
   start: 1 # First page number
   end: 20 # Last page number
