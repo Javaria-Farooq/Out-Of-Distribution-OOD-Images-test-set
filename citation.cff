@@ -7,15 +7,15 @@ authors:
   orcid: "https://orcid.org/0000-0001-8763-3334"
 - family-names: "Nayyer "
   given-names: "Aafaq"
-   family-names: "M Khizer Ali "
+- family-names: "M Khizer Ali "
   given-names: " Khan"
-   family-names: "Ammar "
+- family-names: "Ammar "
   given-names: "Saleem"
-   family-names: "M Ibraheem "
+- family-names: "M Ibraheem "
   given-names: "Siddiqui"
 title: "Out of Distribution FOD test set"
 version: 2.0.4
-DOI: 10.5072/zenodo.1245854
+doi: 10.5072/zenodo.1245854
 date-released: 2023/10/7
 url: "https://github.com/Javaria-Farooq/Out-Of-Distribution-OOD-Images-test-set"
 preferred-citation:
@@ -26,11 +26,11 @@ preferred-citation:
   orcid: "https://orcid.org/0000-0001-8763-3334"
 - family-names: "Nayyer "
   given-names: "Aafaq"
-   family-names: "M Khizer Ali"
+- family-names: "M Khizer Ali"
   given-names: "Khan"
-   family-names: "Ammar "
+- family-names: "Ammar "
   given-names: "Saleem"
-   family-names: "M Ibraheem "
+- family-names: "M Ibraheem "
   given-names: "Siddiqui"
   journal: "arXiv preprint arXiv:2309.13264"
   doi:arXiv:2309.13264
